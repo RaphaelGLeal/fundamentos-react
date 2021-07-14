@@ -1,9 +1,9 @@
-## Fundamento React
+## Fundamentos React
 <a href='https://www.youtube.com/watch?v=XQxitgyZ_S4&t=925s'>React JS Curso Rápido</a> 
 
 # Dependencias
-    - Node v14.15.1
-    - VS Code
+-   Node v14.15.1
+-   VS Code
 
 # Projeto
 -   Create
