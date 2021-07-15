@@ -10,6 +10,8 @@
     - npx create-react-app %nome_projeto%
     - npm init react-app %nome_projeto%
     - yarn create react-app %nome_projeto%
+-   Start
+    - yarn start    
 # Packages
 -   yarn add @types/react
 -   yarn add boostrap
